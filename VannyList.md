@@ -10,4 +10,3 @@
   - [ ] Ask Brooke any other questions
 - [ ] Study for Cert Exam
   - [ ] <mark style="background-color: pink">Decide which exams(s) to take
-- [ ] 
