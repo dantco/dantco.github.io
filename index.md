@@ -4,7 +4,7 @@
 
 - [Vanner's School To-Do List](https://dantco.github.io/VannyList.md)
 
-# <span style="color:pink">:hearts: **Vanner's List of Stuff to Do** :hearts:</span>
+# <span style="color:pink">:heart: **Vanner's List of Stuff to Do** :heart:</span>
 
 ---
 - [ ] Shop for Teacher Clothes
