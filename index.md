@@ -2,5 +2,5 @@
 
 ---
 
-- [Vanner's School To-Do List](https://dantco.github.io/main/VannyList.md)
+- [Vanner's School To-Do List](https://dantco.github.io/VannyList.md)
 
