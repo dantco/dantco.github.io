@@ -1,2 +1,5 @@
-theme: jekyll-theme-minimal
-markdown: GFM
+defaults:
+  theme: jekyll-theme-minimal
+plugins:
+  - jemoji
+  
